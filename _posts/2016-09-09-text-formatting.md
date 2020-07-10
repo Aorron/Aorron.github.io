@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Social Life"
 author: "Paul Le"
 categories: sample
 tags: [sample]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "My Awards And my Grades"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
